@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Whispers of Eternity",
+      "price": 20.00,
+      "category": "fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 2,
+      "name": "Chronicles of the Silver Serpent",
+      "price": 45.99,
+      "category": "fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 3,
+      "name": "The Enigma of Nebula's Veil",
+      "price": 32.00,
+      "category": "fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 4,
+      "name": "Echoes in the Shadows",
+      "price": 99.99,
+      "category": "fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 5,
+      "name": "The Labyrinth of Dreams",
+      "price": 120.00,
+      "category": "fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 6,
+      "name": "The Art of Mindful Living",
+      "price": 25.50,
+      "category": "non-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 7,
+      "name": "Exploring Quantum Realities",
+      "price": 79.99,
+      "category": "non-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 8,
+      "name": "From Pixels to Paint: The Digital Art Revolution",
+      "price": 200.00,
+      "category": "non-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 9,
+      "name": "Economics Unveiled: Navigating the Financial Landscape",
+      "price": 55.00,
+      "category": "non-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 11,
+      "name": "The Science of Sustainable Living",
+      "price": 54.50,
+      "category": "non-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 12,
+      "name": "Quantum Nexus: Beyond the Event Horizon",
+      "price": 89.99,
+      "category": "science-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 13,
+      "name": "Cybernetic Chronicles: A Galactic Odyssey",
+      "price": 21.50,
+      "category": "science-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 14,
+      "name": "Stellar Echoes: The Lost Cosmo",
+      "price": 16.50,
+      "category": "science-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 15,
+      "name": "Nebula's Edge: Journeys in Hyperspace",
+      "price": 80.00,
+      "category": "science-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 16,
+      "name": "Android Uprising: Tales from a Dystopian Future",
+      "price": 82.80,
+      "category": "science-fiction",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 17,
+      "name": "Uncharted Horizons: A Life Explored",
+      "price": 100.00,
+      "category": "biography",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 18,
+      "name": "In the Footsteps of Giants: The Gengar Chronicles",
+      "price": 180.90,
+      "category": "biography",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 19,
+      "name": "Beyond the Limelight: The Charizard Story",
+      "price": 50.00,
+      "category": "biography",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 20,
+      "name": "A Legacy Written in Pages: The Journey of Pikachu",
+      "price": 75.00,
+      "category": "biography",
+      "image": "https://source.unsplash.com/random/800x600"
+    },
+    {
+      "id": 16,
+      "name": "Through the Lens of Time: Naruto's Memoir",
+      "price": 42.30,
+      "category": "biography",
+      "image": "https://source.unsplash.com/random/800x600"
+    }
+  ]
+}
